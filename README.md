@@ -1,4 +1,4 @@
-In this repo you will find interships related to project managament
+In this repo you will find interships related to project management
 
 | **Company**   | **Position**                      | **Link**                               |
 |---------------|-----------------------------------|----------------------------------------|
